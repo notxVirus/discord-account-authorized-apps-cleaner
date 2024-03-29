@@ -13,3 +13,5 @@ pip install -r requirements.txt
 1. Populate the `tokens.txt` file with the Discord account tokens.
 2. Configure `config.json` according to your preferences.
 3. Execute `main.py` and experience seamless functionality.
+
+![Example Image](https://i.ibb.co/xCHM4r6/example.webp)
